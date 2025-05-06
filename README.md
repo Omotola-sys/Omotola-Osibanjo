@@ -18,14 +18,14 @@
 # EXECUTIVE SUMMARY: SOCRA TECH SECURITY
 ### •	Socra Tech, a rapidly expanding technology solutions provider, has identified an alarming increase in suspicious network activity, raising concerns about potential unauthorized access, malware infections, and insider threats. To address these challenges effectively, an in-depth investigation has been conducted using cutting-edge tools including Wireshark, pfSense, and Wazuh.
 ### •	The findings highlight vulnerabilities in network infrastructure, such as anomalies in traffic patterns suggesting unauthorized access attempts and potential malware presence. Additionally, monitoring tools flagged unusual user behavior, suggesting the possibility of insider threats. These risks, if left unaddressed, could compromise Socra Tech’s operational integrity, data confidentiality, and customer trust.
-•	This report summarizes the findings of proposed security improvements and present recommendations and mitigation measures to Socra Tech. 
-TOOLS USED:
+## •	This report summarizes the findings of proposed security improvements and present recommendations and mitigation measures to Socra Tech. 
+# TOOLS USED:
 •	WIRESHARK
 •	PFSENSE
 •	WAZUH
 •	UBUNTU VIRTUAL MACHINE
 •	KALI LINUX
-PHASE 1: NETWORK TRAFFIC CAPTURE AND ANALYSIS USING WIRESHARK
+# PHASE 1: NETWORK TRAFFIC CAPTURE AND ANALYSIS USING WIRESHARK
 •	This phase covers the traffic analysis of the most common network protocols, focusing on HTTP, DNS, and SSH traffic.
 •	Suspicious HTTP and DNS requests were identified by analyzing logs for unusual patterns, such as spikes in traffic, frequent requests to unknown domains, or unusual query lengths. During these monitoring traffic exercises, the following were the focus of objective in Socra Tech’s network environment - unusual traffic patterns such as repeated connections to suspicious IP addresses, unusual protocols, or large amounts of data being transferred, long domain names or subdomains, and requests to newly registered or misspelled domains.
 •	Analyzing DNS, HTTP & SSH Logs:
