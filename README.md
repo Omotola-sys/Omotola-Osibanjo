@@ -15,9 +15,9 @@
 # •	PHASE 3: Wazuh – Security Event Monitoring & Response
 # •	PHASE 3: FINDINGS AND IMPACT
 # •	Recommendations and conclusions
-EXECUTIVE SUMMARY: SOCRA TECH SECURITY
-•	Socra Tech, a rapidly expanding technology solutions provider, has identified an alarming increase in suspicious network activity, raising concerns about potential unauthorized access, malware infections, and insider threats. To address these challenges effectively, an in-depth investigation has been conducted using cutting-edge tools including Wireshark, pfSense, and Wazuh.
-•	The findings highlight vulnerabilities in network infrastructure, such as anomalies in traffic patterns suggesting unauthorized access attempts and potential malware presence. Additionally, monitoring tools flagged unusual user behavior, suggesting the possibility of insider threats. These risks, if left unaddressed, could compromise Socra Tech’s operational integrity, data confidentiality, and customer trust.
+# EXECUTIVE SUMMARY: SOCRA TECH SECURITY
+### •	Socra Tech, a rapidly expanding technology solutions provider, has identified an alarming increase in suspicious network activity, raising concerns about potential unauthorized access, malware infections, and insider threats. To address these challenges effectively, an in-depth investigation has been conducted using cutting-edge tools including Wireshark, pfSense, and Wazuh.
+### •	The findings highlight vulnerabilities in network infrastructure, such as anomalies in traffic patterns suggesting unauthorized access attempts and potential malware presence. Additionally, monitoring tools flagged unusual user behavior, suggesting the possibility of insider threats. These risks, if left unaddressed, could compromise Socra Tech’s operational integrity, data confidentiality, and customer trust.
 •	This report summarizes the findings of proposed security improvements and present recommendations and mitigation measures to Socra Tech. 
 TOOLS USED:
 •	WIRESHARK
