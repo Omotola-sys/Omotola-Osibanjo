@@ -6,15 +6,15 @@
 ## Prepared by: Omotola Osibanjo
 ## Date: April 25,2025.
 # TABLE OF CONTENTS
-# •	EXECUTIVE SUMMARY
-# •	TOOLS USED
-# •	PHASE 1: Wireshark – Network Traffic Capture & Analysis 
-# •	PHASE 1: FINDINGS AND IMPACT
-# •	PHASE 2: pfSense – Firewall & Policy Enforcement
-# •	PHASE 2: FINDINGS AND IMPACT
-# •	PHASE 3: Wazuh – Security Event Monitoring & Response
-# •	PHASE 3: FINDINGS AND IMPACT
-# •	Recommendations and conclusions
+## •	EXECUTIVE SUMMARY
+## •	TOOLS USED
+## •	PHASE 1: Wireshark – Network Traffic Capture & Analysis 
+## •	PHASE 1: FINDINGS AND IMPACT
+## •	PHASE 2: pfSense – Firewall & Policy Enforcement
+## •	PHASE 2: FINDINGS AND IMPACT
+## •	PHASE 3: Wazuh – Security Event Monitoring & Response
+## •	PHASE 3: FINDINGS AND IMPACT
+## •	Recommendations and conclusions
 # EXECUTIVE SUMMARY: SOCRA TECH SECURITY
 ### •	Socra Tech, a rapidly expanding technology solutions provider, has identified an alarming increase in suspicious network activity, raising concerns about potential unauthorized access, malware infections, and insider threats. To address these challenges effectively, an in-depth investigation has been conducted using cutting-edge tools including Wireshark, pfSense, and Wazuh.
 ### •	The findings highlight vulnerabilities in network infrastructure, such as anomalies in traffic patterns suggesting unauthorized access attempts and potential malware presence. Additionally, monitoring tools flagged unusual user behavior, suggesting the possibility of insider threats. These risks, if left unaddressed, could compromise Socra Tech’s operational integrity, data confidentiality, and customer trust.
